@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="map" tilewidth="32" tileheight="32" tilecount="79" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="32" height="32" source="catacombs_0.png"/>
+  </tile>
+  <tile id="1">
+   <image width="32" height="32" source="catacombs_1.png"/>
+  </tile>
+  <tile id="2">
+   <image width="32" height="32" source="catacombs_2.png"/>
+  </tile>
+  <tile id="3">
+   <image width="32" height="32" source="catacombs_3.png"/>
+  </tile>
+  <tile id="4">
+   <image width="32" height="32" source="catacombs_4.png"/>
+  </tile>
+  <tile id="5">
+   <image width="32" height="32" source="catacombs_5.png"/>
+  </tile>
+  <tile id="6">
+   <image width="32" height="32" source="catacombs_6.png"/>
+  </tile>
+  <tile id="7">
+   <image width="32" height="32" source="catacombs_7.png"/>
+  </tile>
+  <tile id="8">
+   <image width="32" height="32" source="catacombs_8.png"/>
+  </tile>
+  <tile id="9">
+   <image width="32" height="32" source="catacombs_9.png"/>
+  </tile>
+  <tile id="10">
+   <image width="32" height="32" source="catacombs_10.png"/>
+  </tile>
+  <tile id="11">
+   <image width="32" height="32" source="catacombs_11.png"/>
+  </tile>
+  <tile id="12">
+   <image width="32" height="32" source="catacombs_12.png"/>
+  </tile>
+  <tile id="13">
+   <image width="32" height="32" source="catacombs_13.png"/>
+  </tile>
+  <tile id="14">
+   <image width="32" height="32" source="catacombs_14.png"/>
+  </tile>
+  <tile id="15">
+   <image width="32" height="32" source="catacombs_15.png"/>
+  </tile>
+  <tile id="16">
+   <image width="32" height="32" source="dirt_full_new_0.png"/>
+  </tile>
+  <tile id="17">
+   <image width="32" height="32" source="dirt_full_new_1.png"/>
+  </tile>
+  <tile id="18">
+   <image width="32" height="32" source="dirt_full_new_2.png"/>
+  </tile>
+  <tile id="19">
+   <image width="32" height="32" source="dirt_full_new_3.png"/>
+  </tile>
+  <tile id="20">
+   <image width="32" height="32" source="dirt_full_new_border_east.png"/>
+  </tile>
+  <tile id="21">
+   <image width="32" height="32" source="dirt_full_new_border_north.png"/>
+  </tile>
+  <tile id="22">
+   <image width="32" height="32" source="dirt_full_new_border_northeast_in.png"/>
+  </tile>
+  <tile id="23">
+   <image width="32" height="32" source="dirt_full_new_border_northeast_out.png"/>
+  </tile>
+  <tile id="24">
+   <image width="32" height="32" source="dirt_full_new_border_northwest_in.png"/>
+  </tile>
+  <tile id="25">
+   <image width="32" height="32" source="dirt_full_new_border_northwest_out.png"/>
+  </tile>
+  <tile id="26">
+   <image width="32" height="32" source="dirt_full_new_border_south.png"/>
+  </tile>
+  <tile id="27">
+   <image width="32" height="32" source="dirt_full_new_border_southeast_in.png"/>
+  </tile>
+  <tile id="28">
+   <image width="32" height="32" source="dirt_full_new_border_southeast_out.png"/>
+  </tile>
+  <tile id="29">
+   <image width="32" height="32" source="dirt_full_new_border_southwest_in.png"/>
+  </tile>
+  <tile id="30">
+   <image width="32" height="32" source="dirt_full_new_border_southwest_out.png"/>
+  </tile>
+  <tile id="31">
+   <image width="32" height="32" source="dirt_full_new_border_west.png"/>
+  </tile>
+  <tile id="32">
+   <image width="32" height="32" source="dirt_south_new.png"/>
+  </tile>
+  <tile id="33">
+   <image width="32" height="32" source="gate_closed_left.png"/>
+  </tile>
+  <tile id="34">
+   <image width="32" height="32" source="gate_closed_right.png"/>
+  </tile>
+  <tile id="35">
+   <image width="32" height="32" source="sandstone_wall_0.png"/>
+  </tile>
+  <tile id="36">
+   <image width="32" height="32" source="sandstone_wall_1.png"/>
+  </tile>
+  <tile id="37">
+   <image width="32" height="32" source="sandstone_wall_2.png"/>
+  </tile>
+  <tile id="38">
+   <image width="32" height="32" source="sandstone_wall_3.png"/>
+  </tile>
+  <tile id="39">
+   <image width="32" height="32" source="sandstone_wall_4.png"/>
+  </tile>
+  <tile id="40">
+   <image width="32" height="32" source="sandstone_wall_5.png"/>
+  </tile>
+  <tile id="41">
+   <image width="32" height="32" source="sandstone_wall_6.png"/>
+  </tile>
+  <tile id="42">
+   <image width="32" height="32" source="sandstone_wall_7.png"/>
+  </tile>
+  <tile id="43">
+   <image width="32" height="32" source="sandstone_wall_8.png"/>
+  </tile>
+  <tile id="44">
+   <image width="32" height="32" source="sandstone_wall_9.png"/>
+  </tile>
+  <tile id="45">
+   <image width="32" height="32" source="sea.png"/>
+  </tile>
+  <tile id="46">
+   <image width="32" height="32" source="sea_0.png"/>
+  </tile>
+  <tile id="47">
+   <image width="32" height="32" source="sky.alpha.png"/>
+  </tile>
+  <tile id="48">
+   <image width="32" height="32" source="stair_0.png"/>
+  </tile>
+  <tile id="49">
+   <image width="32" height="32" source="stair_1.png"/>
+  </tile>
+  <tile id="50">
+   <image width="32" height="32" source="tree.png"/>
+  </tile>
+  <tile id="51">
+   <image width="32" height="32" source="tree_east_0.png"/>
+  </tile>
+  <tile id="52">
+   <image width="32" height="32" source="tree_east_1.png"/>
+  </tile>
+  <tile id="53">
+   <image width="32" height="32" source="tree_east_2.png"/>
+  </tile>
+  <tile id="54">
+   <image width="32" height="32" source="tree_east_3.png"/>
+  </tile>
+  <tile id="55">
+   <image width="32" height="32" source="tree_green_0_old.png"/>
+  </tile>
+  <tile id="56">
+   <image width="32" height="32" source="tree_green_1_old.png"/>
+  </tile>
+  <tile id="57">
+   <image width="32" height="32" source="tree_green_2_old.png"/>
+  </tile>
+  <tile id="58">
+   <image width="32" height="32" source="tree_green_3_old.png"/>
+  </tile>
+  <tile id="59">
+   <image width="32" height="32" source="tree_north_0.png"/>
+  </tile>
+  <tile id="60">
+   <image width="32" height="32" source="tree_north_1.png"/>
+  </tile>
+  <tile id="61">
+   <image width="32" height="32" source="tree_north_2.png"/>
+  </tile>
+  <tile id="62">
+   <image width="32" height="32" source="tree_north_3.png"/>
+  </tile>
+  <tile id="63">
+   <image width="32" height="32" source="tree_northeast_in.png"/>
+  </tile>
+  <tile id="64">
+   <image width="32" height="32" source="tree_northeast_out.png"/>
+  </tile>
+  <tile id="65">
+   <image width="32" height="32" source="tree_northwest_in.png"/>
+  </tile>
+  <tile id="66">
+   <image width="32" height="32" source="tree_northwest_out.png"/>
+  </tile>
+  <tile id="67">
+   <image width="32" height="32" source="tree_south_0.png"/>
+  </tile>
+  <tile id="68">
+   <image width="32" height="32" source="tree_south_1.png"/>
+  </tile>
+  <tile id="69">
+   <image width="32" height="32" source="tree_south_2.png"/>
+  </tile>
+  <tile id="70">
+   <image width="32" height="32" source="tree_south_3.png"/>
+  </tile>
+  <tile id="71">
+   <image width="32" height="32" source="tree_southeast_in.png"/>
+  </tile>
+  <tile id="72">
+   <image width="32" height="32" source="tree_southeast_out.png"/>
+  </tile>
+  <tile id="73">
+   <image width="32" height="32" source="tree_southwest_in.png"/>
+  </tile>
+  <tile id="74">
+   <image width="32" height="32" source="tree_southwest_out.png"/>
+  </tile>
+  <tile id="75">
+   <image width="32" height="32" source="tree_west_0.png"/>
+  </tile>
+  <tile id="76">
+   <image width="32" height="32" source="tree_west_1.png"/>
+  </tile>
+  <tile id="77">
+   <image width="32" height="32" source="tree_west_2.png"/>
+  </tile>
+  <tile id="78">
+   <image width="32" height="32" source="tree_west_3.png"/>
+  </tile>
+ </tileset>
+ <layer name="块层 1" width="16" height="16">
+  <data encoding="csv">
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+34,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+36,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
